@@ -21,12 +21,12 @@ This powerful C program encrypts PNG images through advanced pixel manipulation 
    git clone https://github.com/yourusername/image-encryption.git
    cd image-encryption
 
-	2.	Install libpng:
+2.	Install libpng:
 
         brew install libpng
 
 
-	3.	Compile the program:
+3.	Compile the program:
 
         gcc pixelman.c -I/opt/homebrew/include -L/opt/homebrew/lib -lpng -o pixelman
 
@@ -34,11 +34,11 @@ This powerful C program encrypts PNG images through advanced pixel manipulation 
 
 🚀 Usage
 
-	1.	Place your input image (input.png) in the same directory as the executable.
-	2.	Run the program:
+1.	Place your input image (input.png) in the same directory as the executable.
+2.	Run the program:
 
-./pixelman
+			./pixelman
 
 
-	3.	Check the output file (encrypted.png) for your encrypted image.
+3.	Check the output file (encrypted.png) for your encrypted image.
 
