@@ -37,7 +37,7 @@ This powerful C program encrypts PNG images through advanced pixel manipulation 
 1.	Place your input image (input.png) in the same directory as the executable.
 2.	Run the program:
 
-			./pixelman
+		./pixelman
 
 
 3.	Check the output file (encrypted.png) for your encrypted image.
